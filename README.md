@@ -127,3 +127,7 @@ Estou aberto a oportunidades, networking e conversas relacionadas à área de te
 ### ☕ Code • Learn • Build • Repeat
 
 </div>
+
+🐍 Minha contribuição no GitHub
+
+![Snake animation](https://github.com/joaovitormairena/joaovitormairena/blob/output/github-contribution-grid-snake.svg)
