@@ -1,4 +1,4 @@
-# Olá! Eu sou João Vitor 👋
+# Olá! Meu nome é João Vitor 👋
 
 ### 💻 Desenvolvedor Backend Java em formação
 
@@ -28,62 +28,13 @@ Tenho estudado e desenvolvido projetos utilizando **Orientação a Objetos, APIs
 
 ### 🧑‍💻 Backend
 
-* ☕ Java
-* 🧱 Orientação a Objetos
-* 🌱 Spring Boot
-* 🔗 APIs REST
+* ☕ Java + Orientação a Objetos
+* 🌱 Spring Boot / Aplicações Web
+* 🔗 APIs REST / JSON
 * 📦 JPA / Hibernate
-* 📄 JSON
-* 🧪 JUnit
-* 🎭 Mockito
-
-### 🗄️ Banco de Dados
-
-* PostgreSQL
-* MySQL
-* SQL
-* Modelagem de dados
-
-### 🛠️ Ferramentas
-
-* Git
-* GitHub
-* Maven
-* IntelliJ IDEA
-* Postman
-
----
-
-## 📚 Atualmente estudando
-
-```text
-Java
- ├── Orientação a Objetos
- ├── Collections
- ├── Streams
- ├── Exceptions
- └── Boas práticas
-
-Spring Boot
- ├── Spring Web
- ├── Spring Data JPA
- ├── Hibernate
- ├── APIs REST
- └── Validação
-
-Testes
- ├── JUnit
- ├── Mockito
- └── Testes de integração
-```
-
----
-
-## 🎯 Objetivo
-
-Meu objetivo é ingressar profissionalmente na área de **Desenvolvimento Backend**, trabalhando principalmente com **Java e Spring Boot**.
-
-Busco constantemente transformar meus estudos em projetos reais, desenvolver boas práticas de programação e aprender novas tecnologias que contribuam para minha evolução como desenvolvedor.
+* 🗄️ PostgreSQL / MySQL
+* 🛠️ Git / GitHub
+* 🎭 IntelliJ IDEA / VSCode
 
 ---
 
@@ -124,8 +75,6 @@ Estou aberto a oportunidades, networking e conversas relacionadas à área de te
 
 <div align="center">
 
-### ☕ Code • Learn • Build • Repeat
-
 </div>
 
 ## 🐍 Minhas contribuições
@@ -135,3 +84,5 @@ Estou aberto a oportunidades, networking e conversas relacionadas à área de te
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/joaovitormairena/joaovitormairena/output/github-contribution-grid-snake.svg">
   <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/joaovitormairena/joaovitormairena/output/github-contribution-grid-snake.svg">
 </picture>
+
+### ☕ Code • Learn • Build • Repeat
