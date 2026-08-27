@@ -128,6 +128,10 @@ Estou aberto a oportunidades, networking e conversas relacionadas à área de te
 
 </div>
 
-🐍 Minha contribuição no GitHub
+## 🐍 Minhas contribuições
+
+<div align="center">
 
 ![Snake animation](https://raw.githubusercontent.com/joaovitormairena/joaovitormairena/output/github-contribution-grid-snake.gif)
+
+</div>
